@@ -8,6 +8,6 @@ pylint
 pytest
 seaborn==0.13.2
 scipy==1.12.0
-streamlit==1.45.0
+streamlit==1.54.0
 pydub
 librosa
